@@ -1,0 +1,72 @@
+Package: luci-app-4g
+Version: 1.0-1
+Depends: libc, luci-mod-admin-full, luci-lib-nixio
+Source: package/luci-app-4g
+Section: luci
+Architecture: mipsel_24kc
+Installed-Size: 1567
+Filename: luci-app-4g_1.0-1_mipsel_24kc.ipk
+Size: 2466
+SHA256sum: 380b1cf1f2f37e0feef900d5164e390c690d69d43a87bbe3f6f112b4b0b0e2a9
+Description:  4G Setting
+
+Package: luci-app-iedu
+Version: 1.0-1
+Depends: libc, luci-mod-admin-full, luci-lib-nixio
+Source: package/luci-app-iedu
+Section: luci
+Architecture: mipsel_24kc
+Installed-Size: 144818
+Filename: luci-app-iedu_1.0-1_mipsel_24kc.ipk
+Size: 145882
+SHA256sum: e821c69859fff44a5396717a20f983b26eae2b06bab9bd661b823cff698c0b31
+Description:  Iedu Device
+
+Package: luci-app-ieduSSL
+Version: 1.0-1
+Depends: libc, luci-mod-admin-full, luci-lib-nixio
+Source: package/luci-app-ieduSSL
+Section: luci
+Architecture: mipsel_24kc
+Installed-Size: 145041
+Filename: luci-app-ieduSSL_1.0-1_mipsel_24kc.ipk
+Size: 146112
+SHA256sum: c3016d58cb11f5d91b33b43f10d3040bc4c94e5ca6ab3479b35a42382f8b8388
+Description:  IeduSSL Device
+
+Package: luci-app-mbusd2
+Version: 1.0-1
+Depends: libc, luci-mod-admin-full, luci-lib-nixio
+Source: package/luci-app-mbusd2
+Section: luci
+Architecture: mipsel_24kc
+Installed-Size: 20434
+Filename: luci-app-mbusd2_1.0-1_mipsel_24kc.ipk
+Size: 21382
+SHA256sum: 83a5576fe32d0278c849cc80b92a134c78bd737262ec602a6453b82d18e7207b
+Description:  ModbusRTU to ModbusTCP Bridge
+
+Package: luci-app-modbus2mqttTdais
+Version: 1.0-1
+Depends: libc, luci-mod-admin-full, luci-lib-nixio
+Source: package/luci-app-modbus2mqttTdais
+Section: luci
+Architecture: mipsel_24kc
+Installed-Size: 9645
+Filename: luci-app-modbus2mqttTdais_1.0-1_mipsel_24kc.ipk
+Size: 10618
+SHA256sum: 2b9fcd7b266df18adc076e7ed8604e9d0839829a0fc5fe31680ac4417e13e28f
+Description:  Modbus to MQTT Device
+
+Package: luci-app-vlanset
+Version: 1.0-1
+Depends: libc, luci-mod-admin-full, luci-lib-nixio
+Source: package/luci-app-vlanset
+Section: luci
+Architecture: mipsel_24kc
+Installed-Size: 1606
+Filename: luci-app-vlanset_1.0-1_mipsel_24kc.ipk
+Size: 2510
+SHA256sum: d525bf88aa433877660c028f970e9c96f8147ded99eec7f689d8812ad8732020
+Description:  VLAN Setting
+
