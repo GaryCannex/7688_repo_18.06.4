@@ -47,15 +47,15 @@ SHA256sum: 83a5576fe32d0278c849cc80b92a134c78bd737262ec602a6453b82d18e7207b
 Description:  ModbusRTU to ModbusTCP Bridge
 
 Package: luci-app-modbus2mqttTdais
-Version: 1.0-3
+Version: 1.0-1
 Depends: libc, luci-mod-admin-full, luci-lib-nixio
 Source: package/luci-app-modbus2mqttTdais
 Section: luci
 Architecture: mipsel_24kc
-Installed-Size: 13998
-Filename: luci-app-modbus2mqttTdais_1.0-3_mipsel_24kc.ipk
-Size: 15005
-SHA256sum: a9b7ac7f11f71550d2046b513e216e9b02646001aee767037708977ca1cdfce6
+Installed-Size: 15143
+Filename: luci-app-modbus2mqttTdais_1.0-1_mipsel_24kc.ipk
+Size: 16108
+SHA256sum: 6c085d15dd10eacdcfc5f00b5cda26193423d20e5b6dce3d0cb580c945ce7f46
 Description:  Modbus to MQTT Device
 
 Package: luci-app-vlanset
