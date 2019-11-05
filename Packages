@@ -47,10 +47,10 @@ Version: 1.0-1
 Depends: libc, luci-mod-admin-full, luci-lib-nixio
 Section: luci
 Architecture: mipsel_24kc
-Installed-Size: 15143
+Installed-Size: 15572
 Filename: luci-app-modbus2mqttTdais_1.0-1_mipsel_24kc.ipk
-Size: 16108
-SHA256sum: 6c085d15dd10eacdcfc5f00b5cda26193423d20e5b6dce3d0cb580c945ce7f46
+Size: 16544
+SHA256sum: b64a5d6012e4a634235eba15b1a4bd57f9707ceb25031a19855a98f9f3126daa
 Description:  Modbus to MQTT Device
 
 Package: luci-app-vlanset
