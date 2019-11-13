@@ -3,10 +3,10 @@ Version: 1.0-1
 Depends: libc, luci-mod-admin-full, luci-lib-nixio
 Section: luci
 Architecture: mipsel_24kc
-Installed-Size: 1592
+Installed-Size: 1607
 Filename: luci-app-4g_1.0-1_mipsel_24kc.ipk
-Size: 2493
-SHA256sum: d0836bacfc69ff3d47227e2a7e7728640825ba6b490fe3664b8bc00a2e9a449f
+Size: 2501
+SHA256sum: 9914f048e2e6c085b2a6d0941da50608d88f4e2ffe1040464d98851313c55c35
 Description:  4G Setting
 
 Package: luci-app-iedu
@@ -47,10 +47,10 @@ Version: 1.0-1
 Depends: libc, luci-mod-admin-full, luci-lib-nixio
 Section: luci
 Architecture: mipsel_24kc
-Installed-Size: 18915
+Installed-Size: 19005
 Filename: luci-app-modbus2mqttTdais_1.0-1_mipsel_24kc.ipk
-Size: 19928
-SHA256sum: 557303146f5a45cd04c7feac4c23e08566e04ce8d795a025d953cc1495c0553e
+Size: 20022
+SHA256sum: 8e1c527ea8372e79b5ef0268884c637eeefacb2b5a2315d9771af17fe6ad2ed7
 Description:  Modbus to MQTT Device
 
 Package: luci-app-vlanset
